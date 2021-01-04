@@ -32,7 +32,7 @@ El cliente esta hecho en ReactJS, y Bootstrap. Cuenta con 3 vistas principales:
 <ul>
 	<li><b>/</b> : Pantalla inicial, solo tiene la barra de busqueda.</li> 
 	<li><b><i>/items?search=:q</i></b> : Resultados de busqueda</li>
-	<li><b><i>/items/:id</i></b> : Detalle del productos.</li>
+	<li><b><i>/items/:id</i></b> : Detalle del producto.</li>
 </ul>
 - <b>Comandos</b>: 
   * npm start para iniciar la aplicación.
