@@ -1,0 +1,33 @@
+.bg-custom
+{
+	background-color: #FFE600;
+}
+
+.button-header
+{
+	background-color: #EEEEEE !important;
+    color: #999999 !important;
+}
+
+.input-header
+{
+    color: #999999 !important;
+}
+
+*:focus{
+    outline: none !important;
+    border-color: inherit !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+.searchBar-style
+{
+    padding: 0 !important;
+}
+
+.logo
+{
+	max-width: 50px;
+	height: auto;
+}

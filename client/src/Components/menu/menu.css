@@ -1,0 +1,30 @@
+.menu
+{
+	margin: 0 !important;
+	padding: 16px !important;
+}
+
+
+.menu-style
+{
+	font-size: 14px !important;
+	color: #999999;
+}
+
+.menu-style a
+{
+	text-decoration: none !important;
+	-webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    font-family: 'Glyphicons Halflings';
+    content: ">" !important;
+}
+
+.breadcrumb-item a {
+    text-decoration: none;
+    color: #999999;
+}
+

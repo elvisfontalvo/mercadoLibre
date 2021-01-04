@@ -1,0 +1,48 @@
+.image-products
+{
+	width: 180px;
+	height: 180px;
+	border-radius: 4px;
+	margin-right: 16px;
+	background-size:cover;
+}
+
+.items-style
+{
+	list-style-type: none;
+}
+
+.padding-products
+{
+	padding: 16px;
+	background-color: #FFFFFF;
+}
+
+.title-products
+{
+	margin-bottom:  32px;
+	font-size: 24px;
+	color: #333333;
+}
+
+.description-products
+{
+	font-size: 18px;
+	color: #666666;
+}
+
+.location-products
+{
+	font-size: 12px !important;
+	color: #999999;
+}
+
+.shipping {
+    background: url('../Assets/img/ic_shipping.png');
+    height: 20px;
+    width: 20px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-left: 14px;
+}
