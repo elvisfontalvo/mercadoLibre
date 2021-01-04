@@ -3,7 +3,7 @@
 <p>El proyecto cuenta con 2 aplicaciones independientes:
 	<ul>
 		<li>
-			/api    ( localhost:9000 )  	<- El servidor  : Se encarga de los request a la API de MercadoLibre
+			/server    ( localhost:9000 )  	<- El back-end  : Se encarga de los request a la API de MercadoLibre
 		</li>
 		<li>
 			/client ( localhost:3000 ) 	<- El front-end : Las vistas y controladores.
